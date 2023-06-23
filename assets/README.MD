@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Primeiro Projeto </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -19,7 +19,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 <br>
 
 <p align="center">
-  <img alt="PROJETOS" src=".github/preview.jpg" width="100%">
+  <img alt="Primeiro Projeto" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
