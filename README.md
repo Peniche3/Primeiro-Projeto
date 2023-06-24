@@ -20,7 +20,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 <br>
 
 <p align="center">
-  <img alt="Primeiro Projeto" src=".github/preview.jpg" width="100%">
+  <img alt="Primeiro Projeto" src=".github/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
